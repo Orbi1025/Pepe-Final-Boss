@@ -13533,7 +13533,7 @@ const Ce = (i) => {
     }),
   sf = "0xcomingsoon",
   sh = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
-  ah = "https://x.com/pepeboss_sol",
+  ah = "https://x.com/PepeBossEth",
   uh =
     "https://dexscreener.com/ethereum/0xcomingsoon",
   af = ({ revers: i }) => {
