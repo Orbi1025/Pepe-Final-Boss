@@ -13531,11 +13531,11 @@ const Ce = (i) => {
         ),
       }),
     }),
-  sf = "0xcomingsoon",
-  sh = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+  sf = "0xe307fa50672052463198bb4de7bbbb824c8b83d0",
+  sh = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xe307fa50672052463198bb4de7bbbb824c8b83d0",
   ah = "https://x.com/PepeBossEth",
   uh =
-    "https://dexscreener.com/ethereum/0xcomingsoon",
+    "https://dexscreener.com/ethereum/0xe307fa50672052463198bb4de7bbbb824c8b83d0",
   af = ({ revers: i }) => {
     const [s, u] = he.useState(!1),
       c = async () => {
